@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+#TITULO{
+	background-color:#CCC;
+}
+#T1{
+	background-color:#FFF;
+}
+#NAV1{
+	background-color:#FFF;
+}
+li {
+	background-color:#999;
+	display:inline;
+}
+#asa1{
+	height:1250px;
+	float:left
+}
+#a1 {
+	margin:auto;
+}
